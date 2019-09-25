@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+header {
+  font-size: 35;
+}
+
+main {
+  display: block;
+  text-align: center;
+  background-color: #800080;
+  background-size: cover;
+  color: #FFF;
+}
+
+h1 {
+  font-size: 35;
+  font-weight: 400;
+}
+
+.img {
+  width: 300px;
+  margin-top: 2%;
+}

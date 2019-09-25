@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+header {
+  font-size: 35px;
+}
+
+main {
+  display: block;
+  text-align: center;
+  background-size: cover;
+  font-size: 35px;
+  font-weight: 400;
+  margin: 0 auto;
+}

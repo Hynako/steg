@@ -1,0 +1,108 @@
+header {
+  position: fixed;
+  height: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  float: left;
+  justify-content: left;
+  text-decoration: none;
+  background-color: #800080;
+}
+
+.header_top {
+  float: left;
+  text-align: left;
+  font-size: 35px;
+  color: #fff;
+}
+
+body {
+  margin: 0;
+}
+
+ul.menu {
+   margin: 0px;
+   padding: 0px 0px 0px 15px;
+   background-color: #800080;
+}
+
+ul.menu li {
+   width: 125px;
+   display: inline-block;
+   list-style-type: none;
+   position: relative;
+}
+ul.menu a {
+   background-color: #800080;
+   color: white;
+   line-height: 40px;
+   text-align: center;
+   text-decoration: none;
+   font-weight: bold;
+   display: block;
+}
+ul.menu a:hover {
+   background-color: #ffdddd;
+   color: #800080;
+}
+
+ul.menu ul {
+   display: none;
+}
+
+ul.menu ul {
+   display: none;
+   margin: 0px;
+   padding: 0px;
+   position: absolute;
+}
+
+ul.menu li:hover ul {
+   display: block;
+}
+
+.main {
+  height: auto;
+  color: #fff;
+
+}
+
+.main_TOP {
+  background-image : url(img/tinq.jpeg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #000;
+  height: 500px;
+}
+
+.TOP {
+  padding: 100px;
+  padding-top: 250px;
+  text-align: center;
+  font-size: 60px;
+  letter-spacing: 10;
+}
+
+.span1 {
+  color: #008080;
+}
+
+.main_profile {
+  background-color: #fff;
+  margin-top: 0;
+  padding-top: 10px;
+  color: #800080;
+}
+
+h1 {
+  margin-left: 100px;
+}
+
+h2 {
+  margin-left: 200px;
+}
+
+.name {
+
+}
